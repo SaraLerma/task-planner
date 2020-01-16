@@ -1,0 +1,22 @@
+{
+    "tasks" : [
+        {
+            "title": "Task 1",
+            "deadline": "20/05/20",
+            "description": "blabla",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "deadline": "20/05/20",
+            "description": "blabla",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "deadline": "20/05/20",
+            "description": "blabla",
+            "priority": "high"
+        }
+    ]
+}
