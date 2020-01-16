@@ -2,20 +2,20 @@
     "tasks" : [
         {
             "title": "Task 1",
-            "deadline": "20/05/20",
-            "description": "blabla",
-            "priority": "low"
+            "deadline": "18/01/20",
+            "description": "Redux",
+            "priority": "medium"
         },
         {
             "title": "Task 2",
-            "deadline": "20/05/20",
-            "description": "blabla",
+            "deadline": "20/01/20",
+            "description": "Jest",
             "priority": "medium"
         },
         {
             "title": "Task 3",
-            "deadline": "20/05/20",
-            "description": "blabla",
+            "deadline": "22/01/20",
+            "description": "tests",
             "priority": "high"
         }
     ]

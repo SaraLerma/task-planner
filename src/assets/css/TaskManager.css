@@ -3,3 +3,12 @@
     color: black;
     height: 100vh;
 }
+
+.container{
+    margin: 40px;
+}
+
+.wrapTasks{
+    display: flex;
+    width: 100%;
+}
